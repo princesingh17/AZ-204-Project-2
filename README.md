@@ -25,14 +25,21 @@ This project demonstrates how to provision and configure an **Azure Cosmos DB** 
 6. Tested end-to-end CRUD operations from the .NET app.
 
 📸 Screenshots
+
 Cosmos DB resource overview
-<img src="./screenshots/cosmos-overview.png" width="800" />
+
+<img width="670" height="399" alt="image" src="./screenshots/Image1.png" />
+
 
 Consistency level settings
-<img src="./screenshots/consistency-level.png" width="800" />
+
+<img width="670" height="399" alt="image" src="./screenshots/Image2.png" />
 
 .NET app console output
-<img src="./screenshots/dotnet-console.png" width="800" />
+
+<img width="670" height="399" alt="image" src="./screenshots/Image3.png" />
+
+
 
 ✅ Outcome
 Successfully provisioned a Cosmos DB instance on Azure.
